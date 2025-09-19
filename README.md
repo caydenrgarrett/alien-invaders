@@ -137,4 +137,6 @@ This is a learning project perfect for:
 - Adding shooting mechanics
 - Enhancing graphics and animations
 
+## More Info
+Still actively working and committing new features, ideas, etc to this project... <br>
 Feel free to extend this foundation into a full-featured space shooter game!
