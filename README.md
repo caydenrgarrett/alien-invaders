@@ -2,6 +2,8 @@
 
 A classic space shooter game built with Pygame, inspired by the iconic Space Invaders. Control a spaceship and defend against alien invaders in this retro-style arcade game.
 
+![image alt](https://github.com/caydenrgarrett/alien-invaders/blob/70cbdb4bca99313d344e4de9a8b3d0710a07d4fc/pygame.png)
+
 ## Features
 
 - **Classic Gameplay**: Traditional space shooter mechanics
